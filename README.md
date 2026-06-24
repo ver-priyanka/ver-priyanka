@@ -1,7 +1,7 @@
 ## Hi, I'm Priyanka! 
 
 #### 🎓 EECS Sophomore @ UC Berkeley
-🌟 Passionate about hardware, embedded systems, & robotics applications
+🌟 Passionate about hardware, embedded systems, & robotics 
 
 
 
