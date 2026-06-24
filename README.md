@@ -1,7 +1,10 @@
-## Hi! I'm Priyanka
+## Hi, I'm Priyanka! 
 
-★ EECS @ UC Berkeley
-★ Passionate about hardware, embedded systems, and robotics
+🎓 EECS Sophomore @ UC Berkeley
+🌱 Passionate about hardware, embedded systems, & robotics for social good and healthcare
+
+
+
 <!--
 **ver-priyanka/ver-priyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
