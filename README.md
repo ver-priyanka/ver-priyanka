@@ -2,6 +2,7 @@
 
 #### 🎓 EECS Sophomore @ UC Berkeley
 🌟 Passionate about hardware, embedded systems, & robotics 
+📧 priyankaverma@berkeley.edu
 
 
 
